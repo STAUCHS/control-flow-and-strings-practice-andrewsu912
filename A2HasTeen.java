@@ -1,11 +1,11 @@
 class A2HasTeen extends ConsoleProgram {
 
   /**
-  * Description
-  * @author:
+  * 
+  * @author: 
   */
   
   public void run() {
-    
+
   }
 }
